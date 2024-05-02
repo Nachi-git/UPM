@@ -37,5 +37,5 @@ steps:
   cloudFoundryDeploy:
     mtaDeployParameters: "-f --version-rule ALL"
   tmsUpload:
-    nodeName: "QATest"
+    nodeName: "QAUPMNode"
     credentialsId: "tms"
